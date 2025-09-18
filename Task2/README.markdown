@@ -14,6 +14,7 @@ project-root/
 │── README.md              # Documentation
 ├── sample_notes.json      # Example input notes
 ├── sample_outputs.json    # Example structured outputs
+├── Dockerfile
 ```
 
 ---
@@ -46,7 +47,7 @@ GEMINI_API_KEY=your_api_key_here
 uvicorn main:app --reload
 ```
 
-### 5. To build image lovally
+### 5. To build image locally
 ```bash
 # Build image
 docker build -t task2 .
