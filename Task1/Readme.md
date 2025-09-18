@@ -22,8 +22,9 @@ keywords. Notes are stored in MongoDB and can be searched or retrieved.
 ### 1️⃣ Clone the Repository
 
 ``` bash
-git clone https://github.com/your-username/medical-notes-api.git
-cd medical-notes-api
+git clone https://github.com/its-akanksha/IntraIntel.ai.git
+cd IntraIntel.ai
+cd Task 1
 ```
 
 ### 2️⃣ Create Virtual Environment & Install Dependencies
@@ -181,3 +182,4 @@ GET /notes/?limit=10&skip=0
 ## 👩‍⚕️ Author
 
 Built with ❤️ for digitizing medical workflows.
+
