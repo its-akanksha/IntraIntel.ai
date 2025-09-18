@@ -22,8 +22,9 @@ rag_mini_project/
 1. Clone the repository and navigate to the project folder:
 
 ```bash
-git clone <repo-url>
-cd rag_mini_project
+git clone https://github.com/its-akanksha/IntraIntel.ai.git
+cd IntraIntel.ai
+cd Task3
 ```
 
 2. Create a virtual environment and activate it:
