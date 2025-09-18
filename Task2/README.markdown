@@ -22,8 +22,9 @@ project-root/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/clinical-summarizer.git
-cd clinical-summarizer
+git clone https://github.com/its-akanksha/IntraIntel.ai.git
+cd IntraIntel.ai
+cd Task2
 ```
 
 ### 2. Create a virtual environment & install dependencies
