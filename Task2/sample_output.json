@@ -1,0 +1,16 @@
+[
+    {
+        "note_id": "note_001",
+        "patient": "John Doe",
+        "diagnosis": "acute myocardial infarction",
+        "treatment": "aspirin, nitroglycerin",
+        "follow_up": "Follow-up with cardiology in 2 weeks"
+    },
+    {
+        "note_id": "note_002",
+        "patient": "Jane Smith",
+        "diagnosis": "Influenza",
+        "treatment": "rest, fluids, oseltamivir",
+        "follow_up": "Follow up if symptoms persist beyond 7 days"
+    }
+]

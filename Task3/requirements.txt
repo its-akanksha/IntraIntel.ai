@@ -1,0 +1,23 @@
+# Core
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+
+# LangChain & Vector DB
+langchain
+langchain_chroma
+langchain-community
+langchain-huggingface
+chromadb
+
+# Hugging Face Embeddings
+sentence-transformers
+transformers
+torch
+huggingface-hub
+
+# Utilities
+numpy
+requests
+python-multipart

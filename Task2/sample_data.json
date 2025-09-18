@@ -1,0 +1,30 @@
+[
+    {
+        "note_id": "note_001",
+        "text": "Patient John Doe, 45-year-old male, presented with chest pain and shortness of breath. Diagnosed with acute myocardial infarction. Administered aspirin and nitroglycerin. Recommended coronary angiography. Schedule follow-up in 1 week."
+    },
+    {
+        "note_id": "note_002",
+        "text": "Jane Smith, female, 60 years old, reports persistent cough and fever. Diagnosis: Community-acquired pneumonia. Prescribed antibiotics (amoxicillin). Follow-up appointment in 10 days to monitor recovery."
+    },
+    {
+        "note_id": "note_003",
+        "text": "Patient Michael Brown, 52-year-old male, presented with severe abdominal pain and nausea. Diagnosed with acute appendicitis. Administered IV fluids and antibiotics. Scheduled for emergency appendectomy. Follow-up in 2 weeks post-surgery."
+    },
+    {
+        "note_id": "note_004",
+        "text": "Sarah Johnson, female, 38 years old, reports chronic headaches and blurred vision. Diagnosed with migraine with aura. Prescribed sumatriptan and recommended lifestyle modifications. Schedule follow-up in 4 weeks to assess treatment efficacy."
+    },
+    {
+        "note_id": "note_005",
+        "text": "Patient David Lee, 29-year-old male, presented with high fever and joint pain. Diagnosed with dengue fever. Administered acetaminophen and IV hydration. Follow-up appointment in 5 days to monitor platelet count."
+    },
+    {
+        "note_id": "note_006",
+        "text": "Emily Davis, female, 72 years old, reports swelling in lower limbs and fatigue. Diagnosed with congestive heart failure. Prescribed furosemide and beta-blockers. Recommended low-sodium diet. Schedule follow-up in 2 weeks."
+    },
+    {
+        "note_id": "note_007",
+        "text": "Patient Robert Wilson, 65-year-old male, presented with elevated blood sugar levels and increased thirst. Diagnosed with type 2 diabetes mellitus. Initiated metformin therapy. Follow-up in 3 weeks to review blood glucose levels."
+    }
+]

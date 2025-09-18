@@ -1,0 +1,74 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "John Doe",
+    "age": 45,
+    "note": "Patient presents with chest pain. Diagnosis: Acute myocardial infarction. Treatment: Aspirin, Nitroglycerin, Beta blocker. Follow-up: Cardiology in 2 weeks."
+  },
+  {
+    "patient_id": "P002",
+    "name": "Mary Smith",
+    "age": 60,
+    "note": "History of cough and fever. Diagnosis: Community-acquired pneumonia. Treatment: Amoxicillin 1g TID for 7 days. Follow-up: Primary care in 1 week."
+  },
+  {
+    "patient_id": "P003",
+    "name": "Alice Johnson",
+    "age": 30,
+    "note": "Complains of severe headache and photophobia. Diagnosis: . Treatment: Sumatriptan PRN. Follow-up: Neurology PRN."
+  },
+  {
+    "patient_id": "P004",
+    "name": "Bob Lee",
+    "age": 55,
+    "note": "Shortness of breath on exertion. Diagnosis: Chronic obstructive pulmonary disease (COPD). Treatment: Salbutamol inhaler PRN, Tiotropium once daily. Follow-up: Pulmonology in 1 month."
+  },
+  {
+    "patient_id": "P005",
+    "name": "Carlos Reyes",
+    "age": 40,
+    "note": "Elevated blood glucose on labs. Diagnosis: Type 2 Diabetes Mellitus. Treatment: Metformin 500 mg BID, lifestyle modification. Follow-up: Endocrinology in 6 weeks."
+  },
+  {
+    "patient_id": "P006",
+    "name": "Denise Patel",
+    "age": 29,
+    "note": "Right lower quadrant pain. Diagnosis: Acute appendicitis. Treatment: Laparoscopic appendectomy performed; IV antibiotics. Follow-up: Surgical clinic in 2 weeks."
+  },
+  {
+    "patient_id": "P007",
+    "name": "Ethan Brown",
+    "age": 70,
+    "note": "Progressive memory loss. Diagnosis: Alzheimer disease. Treatment: Donepezil 10 mg nightly. Follow-up: Memory clinic 1 month."
+  },
+  {
+    "patient_id": "P008",
+    "name": "Fiona Green",
+    "age": 22,
+    "note": "Dysmenorrhea and pelvic pain. Diagnosis: Endometriosis (suspected). Treatment: Oral contraceptive pill trial. Follow-up: Gynecology in 6 weeks."
+  },
+  {
+    "patient_id": "P009",
+    "name": "George Wu",
+    "age": 50,
+    "note": "Knee pain after injury. Diagnosis: Osteoarthritis. Treatment: NSAIDs and physiotherapy. Follow-up: Orthopedics PRN."
+  },
+  {
+    "patient_id": "P010",
+    "name": "Hannah Kim",
+    "age": 37,
+    "note": "Anxious mood and insomnia. Diagnosis: Generalized anxiety disorder. Treatment: Sertraline 50 mg daily, CBT referral. Follow-up: Psychiatry in 4 weeks."
+  },
+  {
+    "patient_id": "P011",
+    "name": "Ivan Novak",
+    "age": 52,
+    "note": "Recurrent headaches and hypertension. Diagnosis: Hypertensive urgency. Treatment: Lisinopril 10 mg daily, BP monitoring. Follow-up: Primary care in 2 weeks."
+  },
+  {
+    "patient_id": "P012",
+    "name": "Jaya Singh",
+    "age": 33,
+    "note": "Lower abdominal pain and fever. Diagnosis: Pelvic inflammatory disease. Treatment: Doxycycline and Metronidazole. Follow-up: Gynecology in 1 week."
+  }
+]
